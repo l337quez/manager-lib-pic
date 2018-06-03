@@ -5,3 +5,8 @@ Estoy escribiendo un plugin, que tenga autocompletado de las librerias y donde e
 
 Este plugin es de gedit, esta bueno.http://piclinux.sourceforge.net/gedit-plugin.html
 
+
+/* CONFIGURATION Bits */
+#pragma config CP=OFF,CPD=OFF,LVP=OFF,BOREN=OFF
+#pragma config MCLRE=OFF,PWRTE=OFF,WDTE=OFF
+#pragma config FOSC=INTOSCIO 
